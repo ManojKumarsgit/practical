@@ -1,0 +1,140 @@
+HTML
+  it is the hypertext markup language
+  used to create static web pages
+  static web pages are reamins same foo all the time
+
+
+html syntax
+------------------
+
+<html>
+  <head>
+     content which ar common to the page
+  </head>
+  <body>
+    content visible to the users
+  </body>
+</html>
+
+sample1
+-------------
+
+<html>
+ <head>
+  <title> sample 1</title>
+ </head>
+ <body>  
+   <h1> welcome to html </h1>
+</html>
+
+
+sample2
+-----------
+<html>
+ <head>
+  <title> sample 1</title>
+ </head>
+ <body bgcolor="green">  
+   <h1> welcome to html </h1>
+</html>
+
+
+<html> - start tag
+</html> - end tag
+
+<h1> welcome to html </h1>
+  welcome to html - innerHTML
+
+
+<start tag> innerHTML <endtag> - element
+
+<body bgcolor="green"> -- bgcolor -attribute or property, "green" - value
+
+
+element : combination of start tag, innerhtml and end tag
+attribute: gives additional information to the element
+
+
+steps to create sample
+------------------------------
+1. search notepad
+2. type the following code in it
+3. 
+<html>
+ <head>
+  <title> sample 1</title>
+ </head>
+ <body bgcolor="green">  
+   <h1> welcome to html </h1>
+</html>
+4. click file - save as - sample1.html [ next time onwards use 'save' option' to save in the same document]
+
+5. open the html file in browser to see the output
+  [ right click on the file and open with browser]
+
+6. verify the output
+7. open the html file in notepad to edit the contents
+   [ right click on the html file then open with notepad ]
+8. edit the content if needed
+
+
+sample4
+-----------------------
+
+<html>
+ <head>
+  <title> sample 1</title>
+ </head>
+ <body bgcolor="green">  
+
+<h1> formatting tags </h1>
+
+bold text <b> bold text </b>  <br>
+normal text <i> italic text</i>  <br>
+normal text <u> underline text</u>  <br>
+normal text <em> emphasize text - gives importance while reading</em>  <br>
+
+superscript = (a+b)<sup>2</sup> <br>
+subscript= H<sub>2</sub>O <br>
+
+this is <del>old syntax</del> use new one <br>
+
+add the keyword <ins>hello</ins> in already existing set <br>
+
+
+<pre>
+1. search notepad
+2. type the following code in it
+3. 
+
+<!-- this is comment, you can give your information about the code or u can hide the code from execution
+
+<html>
+ <head>
+  <title> sample 1</title>
+ </head>
+ <body bgcolor="green">  
+   <h1> welcome to html </h1>
+</html>
+
+-->
+
+4. click file - save as - sample1.html [ next time onwards use 'save' option' to save in the same document]
+
+5. open the html file in browser to see the output
+  [ right click on the file and open with browser]
+
+6. verify the output
+7. open the html file in notepad to edit the contents
+   [ right click on the html file then open with notepad ]
+8. edit the content if needed
+
+</pre>
+
+</html>
+
+
+
+
+
+  
